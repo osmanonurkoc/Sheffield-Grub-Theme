@@ -1,6 +1,6 @@
 
 ## Sheffield-Grub2-Theme
-Sheffield Grub2 Theme with Papirus Icon Pack
+Sheffield Grub2 Theme
 ![sheffield grub theme without loading bar](https://raw.githubusercontent.com/osmanonurkoc/Sheffield-Grub-Theme/master/sheffield_grub.png)
 ## Installation:
 
